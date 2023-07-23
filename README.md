@@ -1,7 +1,7 @@
 # Real-Time-Credit-Card-Fraud-Detection
 
 ## Architecture
-<img src="Architecture.jpg">
+<img src="Architecture.png">
 
 
 ## Technologies Used:
